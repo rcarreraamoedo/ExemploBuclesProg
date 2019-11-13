@@ -16,7 +16,7 @@ public class SumaPar {
      */
     public static void main(String[] args) {
           Suma obx = new Suma();
-        obx.sumaPar();
+        obx.sumarParesFor();
     }
     
 }
